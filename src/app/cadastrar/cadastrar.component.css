@@ -1,0 +1,13 @@
+#bg{
+    background-color: rgb(112, 240, 219);
+}
+
+#img-bg{
+    background-image: url('../../assets/imagens/Collab-pana.png');
+
+    min-height: 829px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
