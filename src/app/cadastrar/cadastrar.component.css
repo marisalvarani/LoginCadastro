@@ -1,11 +1,11 @@
 #bg{
-    background-color: rgb(112, 240, 219);
+    background-color: rgb(240, 142, 112);
 }
 
 #img-bg{
-    background-image: url('../../assets/imagens/Collab-pana.png');
+    background-image: url('../../assets/imagens/Sushi-cook-amico.png');
 
-    min-height: 829px;
+    min-height: 789px;
 
     background-position: center;
     background-repeat: no-repeat;
